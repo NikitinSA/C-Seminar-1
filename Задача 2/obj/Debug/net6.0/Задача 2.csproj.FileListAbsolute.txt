@@ -1,0 +1,15 @@
+C:\Users\novoz\OneDrive\Рабочий стол\Сава\С#\Cеминар 1\Задача 2\obj\Debug\net6.0\Задача 2.csproj.AssemblyReference.cache
+C:\Users\novoz\OneDrive\Рабочий стол\Сава\С#\Cеминар 1\Задача 2\obj\Debug\net6.0\Задача 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novoz\OneDrive\Рабочий стол\Сава\С#\Cеминар 1\Задача 2\obj\Debug\net6.0\Задача 2.AssemblyInfoInputs.cache
+C:\Users\novoz\OneDrive\Рабочий стол\Сава\С#\Cеминар 1\Задача 2\obj\Debug\net6.0\Задача 2.AssemblyInfo.cs
+C:\Users\novoz\OneDrive\Рабочий стол\Сава\С#\Cеминар 1\Задача 2\obj\Debug\net6.0\Задача 2.csproj.CoreCompileInputs.cache
+C:\Users\novoz\OneDrive\Рабочий стол\Сава\С#\Cеминар 1\Задача 2\bin\Debug\net6.0\Задача 2.exe
+C:\Users\novoz\OneDrive\Рабочий стол\Сава\С#\Cеминар 1\Задача 2\bin\Debug\net6.0\Задача 2.deps.json
+C:\Users\novoz\OneDrive\Рабочий стол\Сава\С#\Cеминар 1\Задача 2\bin\Debug\net6.0\Задача 2.runtimeconfig.json
+C:\Users\novoz\OneDrive\Рабочий стол\Сава\С#\Cеминар 1\Задача 2\bin\Debug\net6.0\Задача 2.dll
+C:\Users\novoz\OneDrive\Рабочий стол\Сава\С#\Cеминар 1\Задача 2\bin\Debug\net6.0\Задача 2.pdb
+C:\Users\novoz\OneDrive\Рабочий стол\Сава\С#\Cеминар 1\Задача 2\obj\Debug\net6.0\Задача 2.dll
+C:\Users\novoz\OneDrive\Рабочий стол\Сава\С#\Cеминар 1\Задача 2\obj\Debug\net6.0\refint\Задача 2.dll
+C:\Users\novoz\OneDrive\Рабочий стол\Сава\С#\Cеминар 1\Задача 2\obj\Debug\net6.0\Задача 2.pdb
+C:\Users\novoz\OneDrive\Рабочий стол\Сава\С#\Cеминар 1\Задача 2\obj\Debug\net6.0\Задача 2.genruntimeconfig.cache
+C:\Users\novoz\OneDrive\Рабочий стол\Сава\С#\Cеминар 1\Задача 2\obj\Debug\net6.0\ref\Задача 2.dll
